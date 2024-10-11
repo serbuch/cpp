@@ -1,0 +1,15 @@
+1.cpp
+2.cpp
+conspect.cpp
+main1.cpp
+*.out
+*.cmake
+*.make
+*cache*/
+*build*/
+.venv
+.vscode
+LAB_repo/
+/3\ sem/cmake_example/
+/3\ sem/week1/task
+
