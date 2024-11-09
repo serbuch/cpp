@@ -5,6 +5,7 @@ main1.cpp
 *.out
 *.cmake
 *.make
+*.md
 *cache*/
 *build*/
 *.DS_Store
@@ -13,4 +14,5 @@ main1.cpp
 LAB_repo/
 /3\ sem/cmake_example/
 /3\ sem/week1/task
+gitlab/
 
