@@ -1,0 +1,310 @@
+Tag: h3, Content: 
+                Мопед Верховина
+              
+Tag: span, Content: 10 000
+Tag: !--, Content:  ₽
+Tag: span, Content: Москва, Тимирязевская
+Tag: h3, Content: 
+                Горные лыжи 167 Volkl Deacon 84 + крепления
+              
+Tag: span, Content: 45 000
+Tag: !--, Content:  ₽
+Tag: h3, Content: 
+                Электроскутер, мопед, GT U2 PRO тест-драйв новый
+              
+Tag: span, Content: 84 900
+Tag: !--, Content:  ₽
+Tag: span, Content: Москва, Медведково
+Tag: h3, Content: 
+                Xiaomi 13T Pro, 12/512 ГБ
+              
+Tag: span, Content: 39 000
+Tag: !--, Content:  ₽
+Tag: span, Content: Москва, Юго-Восточная
+Tag: h3, Content: 
+                Горные лыжи Salomon QST 106
+              
+Tag: span, Content: 48 000
+Tag: !--, Content:  ₽
+Tag: h3, Content: 
+                Мопед рига 13
+              
+Tag: span, Content: 39 000
+Tag: !--, Content:  ₽
+Tag: span, Content: Москва, Окружная
+Tag: h3, Content: 
+                Горные лыжи armada arv
+              
+Tag: span, Content: 48 000
+Tag: !--, Content:  ₽
+Tag: h3, Content: 
+                Запчасти для мото из Таиланда YSS
+              
+Tag: span, Content: 60 000
+Tag: !--, Content:  ₽
+Tag: span, Content: Москва, Охотный ряд
+Tag: h3, Content: 
+                Электрошашлычница
+              
+Tag: span, Content: 500
+Tag: !--, Content:  ₽
+Tag: span, Content: Москва, Выхино
+Tag: h3, Content: 
+                Горные лыжи Volkl Racetiger SC 170
+              
+Tag: span, Content: 35 000
+Tag: !--, Content:  ₽
+Tag: span, Content: Москва, Войковская
+Tag: h3, Content: 
+                Титановый руль drone
+              
+Tag: span, Content: 10 000
+Tag: !--, Content:  ₽
+Tag: h3, Content: 
+                Горные лыжи
+              
+Tag: span, Content: 18 000
+Tag: !--, Content:  ₽
+Tag: div, Content: Идет загрузка рекламы
+Tag: h3, Content: 
+                Мопед Карпаты
+              
+Tag: span, Content: 15 000
+Tag: !--, Content:  ₽
+Tag: span, Content: Москва, Орехово
+Tag: h3, Content: 
+                Титановый руль tech team
+              
+Tag: span, Content: 10
+Tag: !--, Content:  ₽
+Tag: h3, Content: 
+                Ботинки угги
+              
+Tag: span, Content: 2 690
+Tag: !--, Content:  ₽
+Tag: h3, Content: 
+                Горные лыжи volkl revolt 95
+              
+Tag: span, Content: 45 000
+Tag: !--, Content:  ₽
+Tag: span, Content: Москва, Ленинский проспект
+Tag: h3, Content: 
+                Горные лыжи black crows atris
+              
+Tag: span, Content: 50 000
+Tag: !--, Content:  ₽
+Tag: h3, Content: 
+                Запчасти для мотоцикла
+              
+Tag: span, Content: 100
+Tag: !--, Content:  ₽
+Tag: span, Content: Москва, Калужская
+Tag: h3, Content: 
+                Массаж
+              
+Tag: span, Content: 3 000
+Tag: !--, Content:  ₽
+Tag: !--, Content:  
+Tag: !--, Content: за
+                    услугу
+Tag: span, Content: Москва, Юго-Западная
+Tag: h3, Content: 
+                Xiaomi 13, 12/256 ГБ
+              
+Tag: span, Content: 36 990
+Tag: !--, Content:  ₽
+Tag: h3, Content: 
+                Мотор мотоцикла Zundapp KS 600
+              
+Tag: span, Content: 400 000
+Tag: !--, Content:  ₽
+Tag: span, Content: Москва, Яхромская
+Tag: h3, Content: 
+                Горные лыжи Head i Speead Pro, ростовка 180
+              
+Tag: span, Content: 40 000
+Tag: !--, Content:  ₽
+Tag: h3, Content: 
+                Горные лыжи с креплениями Salomon 24
+              
+Tag: span, Content: 24 000
+Tag: !--, Content:  ₽
+Tag: span, Content: Москва, Шаболовская
+Tag: h3, Content: 
+                Карпаты-1 на ходу оригинал 1986год
+              
+Tag: span, Content: 70 000
+Tag: !--, Content:  ₽
+Tag: span, Content: Москва, Сходненская
+Tag: h3, Content: 
+                Крепления для горных лыж fisher
+              
+Tag: span, Content: 10 000
+Tag: !--, Content:  ₽
+Tag: h3, Content: 
+                Лыжи горные фрирайд scott, movement
+              
+Tag: span, Content: 35 000
+Tag: !--, Content:  ₽
+Tag: span, Content: Москва, Театральная
+Tag: h3, Content: 
+                Мотоциклы
+              
+Tag: span, Content: 130 000
+Tag: !--, Content:  ₽
+Tag: span, Content: Москва, Селигерская
+Tag: h3, Content: 
+                Анатомическая подушка
+              
+Tag: span, Content: 700
+Tag: !--, Content:  ₽
+Tag: span, Content: Москва, Тушинская
+Tag: h3, Content: 
+                Горные лыжи majesty supernova carbon 177 (скитур)
+              
+Tag: span, Content: 40 000
+Tag: !--, Content:  ₽
+Tag: span, Content: Москва, Петровский парк
+Tag: h3, Content: 
+                Горные лыжи Nordica
+              
+Tag: span, Content: 25 000
+Tag: !--, Content:  ₽
+Tag: h3, Content: 
+                Вентилятор
+              
+Tag: span, Content: 700 ₽
+Tag: h3, Content: 
+                Горные лыжи фрирайд 174х122 Surface
+              
+Tag: span, Content: 46 000 ₽
+Tag: h3, Content: 
+                Карпаты
+              
+Tag: span, Content: 25 000 ₽
+Tag: h3, Content: 
+                Верховина 6
+              
+Tag: span, Content: 22 000 ₽
+Tag: span, Content: Москва, Академическая
+Tag: h3, Content: 
+                Фрирайдные горные лыжи "Армада"106.Продаю
+              
+Tag: span, Content: 50 000 ₽
+Tag: span, Content: Москва, Молодёжная
+Tag: div, Content: 
+                      Молл
+                    
+Tag: h3, Content: 
+                Xiaomi 13 Pro, 12/512 ГБ
+              
+Tag: span, Content: 48 990 ₽
+Tag: h3, Content: 
+                Горные лыжи
+              
+Tag: span, Content: 41 000 ₽
+Tag: h3, Content: 
+                Велосипед с мотором
+              
+Tag: span, Content: 12 000 ₽
+Tag: h3, Content: 
+                Riga 16
+              
+Tag: span, Content: 27 000 ₽
+Tag: span, Content: Москва, Митино
+Tag: h3, Content: 
+                Ботинки Ecco biom hike infant 26
+              
+Tag: span, Content: 3 250 ₽
+Tag: h3, Content: 
+                Горнолыжные крепления новые
+              
+Tag: span, Content: 10 000 ₽
+Tag: h3, Content: 
+                Горные лыжи Salomon Shortkart 125 сноублейды
+              
+Tag: span, Content: 26 000 ₽
+Tag: span, Content: Москва, Нахимовский проспект
+Tag: h3, Content: 
+                Xiaomi 13 Ultra, 12/256 ГБ
+              
+Tag: span, Content: 54 000 ₽
+Tag: h3, Content: 
+                Подушка новая ортопедическая
+              
+Tag: span, Content: 200 ₽
+Tag: span, Content: Москва, Пенягино
+Tag: h3, Content: 
+                Мопед зид Пилот Актив
+              
+Tag: span, Content: 40 000 ₽
+Tag: span, Content: Москва, Орехово
+Tag: h3, Content: 
+                Титановый руль tech team
+              
+Tag: span, Content: 8 500 ₽
+Tag: span, Content: Москва, Зябликово
+Tag: h3, Content: 
+                Щенки золотистого ретривера
+              
+Tag: span, Content: Цена не указана
+Tag: span, Content: Москва, Выставочная
+Tag: h3, Content: 
+                Мопед рига 3
+              
+Tag: span, Content: 55 000 ₽
+Tag: span, Content: Москва, Медведково
+Tag: h3, Content: 
+                Alfa
+              
+Tag: span, Content: 35 000 ₽
+Tag: h3, Content: 
+                Горные лыжи K2 Seth Visious, ботинки 41 размера
+              
+Tag: span, Content: 25 000 ₽
+Tag: h3, Content: 
+                Запчасти для мотоциклов voge (под заказ)
+              
+Tag: span, Content: 1 000 ₽
+Tag: span, Content: Москва, Строгино
+Tag: h3, Content: 
+                Лыжи scott Scrapper, 115, рост 189 (2020-2021)
+              
+Tag: span, Content: 49 000 ₽
+Tag: h3, Content: 
+                Цветная майолика на керамике в багете
+              
+Tag: span, Content: 900 ₽
+Tag: h3, Content: 
+                Массаж на дому
+              
+Tag: span, Content: от 800 ₽ за услугу
+Tag: span, Content: Москва, Сходненская
+Tag: h3, Content: 
+                Колеса Ethic incube v2
+              
+Tag: span, Content: 2 500 ₽
+Tag: h3, Content: 
+                Подушка ортопедическая
+              
+Tag: span, Content: 4 000 ₽
+Tag: span, Content: Москва, Лесопарковая
+Tag: h3, Content: 
+                Мопед Vento Riva II
+              
+Tag: span, Content: 40 000 ₽
+Tag: span, Content: Москва, Перерва
+Tag: h3, Content: 
+                Руль спутник титан
+              
+Tag: span, Content: 6 500 ₽
+Tag: h3, Content: 
+                Мопед Рига
+              
+Tag: span, Content: 9 000 ₽
+Tag: span, Content: Химки, Химки
+Tag: h3, Content: 
+                Cкутер Тигр 49 сс (150 сс )
+              
+Tag: span, Content: 88 500 ₽
+Tag: span, Content: Москва, Алма-Атинская
