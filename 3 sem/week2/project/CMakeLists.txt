@@ -9,4 +9,8 @@ message(INFO:\ ${raytracing_SOURCE_DIR})
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${raytracing_SOURCE_DIR}/bin)
 
-add_executable(raytracing main.cpp)
+include_directories(${CMAKE_SOURCE_DIR}/include)
+
+add_executable(main main.cpp src/utils.cpp)
+
+target_compile_definitions(main PRIVATE WIDTH=800 HEIGHT=600)
