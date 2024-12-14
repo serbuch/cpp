@@ -3,8 +3,6 @@
 
 #include <string>
 
-using namespace std;
-
-void parseHTML(const string& input);
+void parseHTML(const std::string& input, const std::string& file_to_write);
 
 #endif

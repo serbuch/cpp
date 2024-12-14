@@ -2,7 +2,7 @@
 
 using namespace std;
 
-string open_html(const string& filepath) {
+string open_file(const string& filepath) {
     ifstream file(filepath); 
     stringstream buffer;
     if (file.is_open()) {

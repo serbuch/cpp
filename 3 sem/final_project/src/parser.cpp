@@ -6,7 +6,7 @@
 
 using namespace std;
 
-void parseHTML(const string& input) {
+void parseHTML(const string& input, const string& file_to_write) {
     
     vector<HTMLElement> elements;
     size_t pos = 0;
@@ -46,5 +46,5 @@ void parseHTML(const string& input) {
     }
 
     // Output parsed elements
-    write_data(elements);
+    write_data(elements, file_to_write);
 }

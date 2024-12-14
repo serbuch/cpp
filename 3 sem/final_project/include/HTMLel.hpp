@@ -3,11 +3,9 @@
 
 #include <string>
 
-using namespace std;
-
 struct HTMLElement {
-    string tagName;
-    string textContent;
+    std::string tagName;
+    std::string textContent;
 };
 
 #endif
